@@ -19,6 +19,7 @@ using namespace std;
 /* 1527번 금민수의 개수
 // 해설 : 브루트포스(dfs)
 // url : https://www.acmicpc.net/problem/1527
+
 int A, B, answer;
 
 void input()
